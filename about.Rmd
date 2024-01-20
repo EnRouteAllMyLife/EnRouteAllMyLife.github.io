@@ -1,0 +1,55 @@
+---
+title: "All about Ada"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Education Background
+
+BSc in Statistics, 2022
+
+East China Normal University
+
+MSc in Biostatistics, 2025 (Expected)
+
+Columbia University
+
+# Research Experience
+
+*Analysis of Influencing Factors of Apathy in Patients with Parkinson’s Disease*
+
+* Explored the factors influencing PD apathy based on a chi-squared test, Mann-Whitney U test and step wise regression;
+Cognitive function, life quality, educational level, DA and LEDD are independent risk factors for PD apathy
+
+* Responsible for experimental design, data processing, statistical analysis and conclusions writing
+
+* The paper was published in the Brain Sciences Magazine (DOI: 10.3390/brainsci12101343)
+
+*Evaluation of Risk Factors for Impulse Control Disorder in Parkinson's Disease in Northern China*
+
+* Explored the factors influencing PD ICD and ICD sub-types based on a chi-squared test, Mann-Whitney U test and step wise regression; Illustrated that ICD was associated with disease duration, motor symptoms, dyskinesia, depression, REM sleep behavior disorder (RBD) and cognitive decline; Constructed ICD prediction model based on logistic regression framework
+
+* Responsible for experimental design, data processing, statistical analysis and conclusions writin
+
+* The paper was accepted by the Frontier on 23 October 2023 (DOI: 10.3389/fnagi.2023.1257618)
+
+# Work Experience
+
+*Risk Control Analyst, Shanghai Baigong Network Technology Co., Ltd. (02/2020 - till now)*
+
+* Report monitoring automation: robot based on Python linked database and enterprise WeChat can automatically
+broadcast daily business figures, including basic indicators, user portrait indicators and model performance
+
+* Scorecard iteration: developed a scorecard model based on Applist using the LGBM algorithm; integrating it with
+models of other dimensions based on logical regression to ensure that the AUC of the final model on OOT was 0.7, KS is 0.24, indicating that the model had strong generalization ability and differentiation gradient; the integration model further optimized the risk exposure and the proportion of bad debts was reduced by 1.5%
+
+* Credit evaluation strategy optimization: optimized the current credit strategy by mining variables and added time slices, trained decision trees to find a better combination of variables and optimized credit leverage
+
+*Delivery Analyst, Acxiom Information Service (Shanghai) Co., Ltd. (07/2021-12/2021)*
+
+* Membership loyalty analysis: analyzed the reasons for the low repurchase rate of R3 young consumers by comparing
+the loss rate and retention rate of competing products; identified the long-term trend of weak brand stickiness (infidelity) of young consumers; collaborated with the operation department to plan the future operation strategy for such customer groups
+
+* D11 CRM Planning: participated in the CRM planning for Double 11 Shopping Carnival, trained a clustering model based on users’ past purchasing behavior, mind and consumption habits and divided users into nine groups; contributed my parts to reaching 2.45 billion GMV, an increase of 21% over the same period of the previous year

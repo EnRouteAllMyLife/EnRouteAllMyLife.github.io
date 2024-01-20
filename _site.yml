@@ -1,0 +1,18 @@
+name: "Ada-website"
+output_dir: "."
+navbar:
+  title: "Ada Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<adaluchen1117@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/EnRouteAllMyLife/
+
+output:
+  html_document:
+    theme: journal
+    css: style.css
