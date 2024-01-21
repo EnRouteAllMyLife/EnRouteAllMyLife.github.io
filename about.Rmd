@@ -1,39 +1,63 @@
 ---
-title: "All about Ada"
+title: "About"
 output: 
   html_document:
     toc: true
     toc_float: true
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 ---
 
 # Education Background
 
-BSc in Statistics, 2022
+* 2023 ~ 2025, Master of Science in Biostatistics, Mailman School of Public Health, Columbia University
 
-East China Normal University
+* 2018 ~ 2022, Bachelor of Science in Statistics, School of Statistic, East China Normal University
 
-MSc in Biostatistics, 2025 (Expected)
-
-Columbia University
 
 # Research Experience
 
-*Analysis of Influencing Factors of Apathy in Patients with Parkinson’s Disease*
+Since August 2022, I have been engaged in a remote role as a Statistical Analyst, contributing my expertise to two distinct research teams. I actively participate in the entire lifecycle of research projects, which includes designing study methodologies, selecting appropriate statistical techniques, and interpreting complex data sets. 
 
-* Explored the factors influencing PD apathy based on a chi-squared test, Mann-Whitney U test and step wise regression;
-Cognitive function, life quality, educational level, DA and LEDD are independent risk factors for PD apathy
+## Parkinson Disease
 
-* Responsible for experimental design, data processing, statistical analysis and conclusions writing
+The research team, led by Professor [Ying Chang](https://www.haodf.com/doctor/238861/xinxi-jieshao.html) from the Department of Neurology at China-Japan Union Hospital, has major interest in [Parkinson Disease (PD)](https://my.clevelandclinic.org/health/diseases/8525-parkinsons-disease-an-overview). From August 2022, I have taken responsibilities in  experimental design, data processing, statistical analysis and visualization. 
 
-* The paper was published in the Brain Sciences Magazine (DOI: 10.3390/brainsci12101343)
+As of `r format(Sys.Date(), '%Y-%m-%d')`, the team has achieved significant advancements in researching the risk factors associated with non-motor symptoms in patients with PD. We have diligently worked to verify and quantify the relationships between various factors and the occurrence of specific symptoms, like apathy and [impulse control disorder](https://my.clevelandclinic.org/health/diseases/25175-impulse-control-disorders) . Ultimately, our efforts have culminated in the development of a predictive model to forecast the onset of these symptoms in PD patients.
 
-*Evaluation of Risk Factors for Impulse Control Disorder in Parkinson's Disease in Northern China*
+## Bone and Joint Surgery
 
-* Explored the factors influencing PD ICD and ICD sub-types based on a chi-squared test, Mann-Whitney U test and step wise regression; Illustrated that ICD was associated with disease duration, motor symptoms, dyskinesia, depression, REM sleep behavior disorder (RBD) and cognitive decline; Constructed ICD prediction model based on logistic regression framework
+The research team, spearheaded by Professor [Xin Qi](https://m.haodf.com/doctor/78526.html) from the Department of Bone and Joint Surgery at the First Hospital of Jilin University, has made significant advancements in their field. Detailed demonstration of their results can be found on this [websit](http://api.cup-placement.com/) (a little shabby, still working on that). From September 2023, I have shoulder the majority of the analytical and coding responsibilities, including data management, processing, modeling, visualization and website construction.
 
-* Responsible for experimental design, data processing, statistical analysis and conclusions writin
+So far by `r format(Sys.Date(), '%Y-%m-%d')`, the team has achieved notable progress in the following areas:
 
-* The paper was accepted by the Frontier on 23 October 2023 (DOI: 10.3389/fnagi.2023.1257618)
+### Total Hip Arthroplasty on Pelvic Mobility
+
+This is a prospective cohort study focusing on the impacts of total hip [arthroplasty](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/arthroplasty) on pelvic mobility. The study centers are The First Hospital of Jilin University and The Sixth Hospital of Xinjiang Medical University. The primary objectives of this study are threefold:
+
+* To study changes of pelvic mobility after hip arthroplasty and associated influencing factors in patients with different diagnosis.
+
+* To establish a prediction model for pelvic stiffness remission after hip replacement in patients with DDH.
+
+* To establish a method to screen patients with possible abnormal pelvic mobility based on routine preoperative examinations.
+
+
+### Coronal Plane Alignment of the Knee Classification 
+
+This is a retrospective cohort study focusing on the distribution of coronal plane alignment of the knee (CPAK) classification among the [osteoarthritis](https://www.hopkinsmedicine.org/health/conditions-and-diseases/arthritis/osteoarthritis) and the healthy population. Particularly focusing on Chinese population, the primary objectives of this study are threefold:
+
+* To investigate the prevalence of CPAK within the Chinese population; to determine if its distribution aligns with formal study.
+
+* To study the impact of OA progression on CPAK classification changes
+
+* To establish a machine learning algorithm for predicting the phenotypic structure of osteoarthritic knee joints. 
+
+
+# Publication
+
+* Ren W, Qi Y, Liu Y, et al. Evaluation of risk factors for impulse control disorder in Parkinson's disease in northern China[J]. Frontiers in Aging Neuroscience, 15: 1257618.
+
+*	Luo R, Qi Y, He J, et al. Analysis of Influencing Factors of Apathy in Patients with Parkinson’s Disease[J]. Brain Sciences, 2022, 12(10): 1343.
+
 
 # Work Experience
 
