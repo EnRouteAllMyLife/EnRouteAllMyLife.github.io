@@ -74,9 +74,10 @@ I'm in charge of the credit risk analysis over [PinjamDuit](https://www.stanford
 * Daily monitoring: conducted daily reviews and made decisions for all incoming applications in the pipeline product based on available internal SOP
 
 
-*Delivery Analyst, Acxiom Information Service (Shanghai) (07/2021-12/2021)*
+## Acxiom Information Service
 
-* Membership loyalty analysis: analyzed the reasons for the low repurchase rate of R3 young consumers by comparing
-the loss rate and retention rate of competing products; identified the long-term trend of weak brand stickiness (infidelity) of young consumers; collaborated with the operation department to plan the future operation strategy for such customer groups
+I have interned as a Delivery Analyst from July 2021 to December 2021. The team, based in Shanghai, provided CRM for L'oreal Paris. The most remarkable contributions are listed as:
+
+* Membership loyalty analysis: analyzed the reasons for the low repurchase rate of R3 young consumers by comparing the loss rate and retention rate of competing products; identified the long-term trend of weak brand stickiness (infidelity) of young consumers; collaborated with the operation team with customized strategies.
 
 * D11 CRM Planning: participated in the CRM planning for Double 11 Shopping Carnival, trained a clustering model based on users’ past purchasing behavior, mind and consumption habits and divided users into nine groups; contributed my parts to reaching 2.45 billion GMV, an increase of 21% over the same period of the previous year
