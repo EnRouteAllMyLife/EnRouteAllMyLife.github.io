@@ -1,7 +1,7 @@
 name: "Ada-website"
 output_dir: "."
 navbar:
-  title: "Ada Website"
+  title: "All about Ada"
   left:
     - text: "Home"
       href: index.html

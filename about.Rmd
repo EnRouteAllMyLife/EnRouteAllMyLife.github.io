@@ -45,7 +45,7 @@ This is a prospective cohort study focusing on the impacts of total hip [arthrop
 
 This is a retrospective cohort study focusing on the distribution of coronal plane alignment of the knee (CPAK) classification among the [osteoarthritis](https://www.hopkinsmedicine.org/health/conditions-and-diseases/arthritis/osteoarthritis) and the healthy population. Particularly focusing on Chinese population, the primary objectives of this study are threefold:
 
-* To investigate the prevalence of CPAK within the Chinese population; to determine if its distribution aligns with formal study.
+* To investigate the distribution of CPAK within the Chinese population; to determine if it aligns with previous study.
 
 * To study the impact of OA progression on CPAK classification changes
 
@@ -61,17 +61,20 @@ This is a retrospective cohort study focusing on the distribution of coronal pla
 
 # Work Experience
 
-*Risk Control Analyst, Shanghai Baigong Network Technology Co., Ltd. (02/2020 - till now)*
+## Shanghai Chengce Fin-tech
 
-* Report monitoring automation: robot based on Python linked database and enterprise WeChat can automatically
-broadcast daily business figures, including basic indicators, user portrait indicators and model performance
+From February 2022 to September 2023, I have worked as a credit risk analyst. I feel incredibly fortunate for the growth and experiences I've gained in this supportive company. 
 
-* Scorecard iteration: developed a scorecard model based on Applist using the LGBM algorithm; integrating it with
-models of other dimensions based on logical regression to ensure that the AUC of the final model on OOT was 0.7, KS is 0.24, indicating that the model had strong generalization ability and differentiation gradient; the integration model further optimized the risk exposure and the proportion of bad debts was reduced by 1.5%
+I'm in charge of the credit risk analysis over [PinjamDuit](https://www.stanfordtek.com), one of Indonesia’s leading digital lending platforms that is licensed, registered, and supervised by the Financial Services Authority (OJK). The frequently used programming language is Python, SQL and R. Overall, my prime duty can be divided into three parts:
 
-* Credit evaluation strategy optimization: optimized the current credit strategy by mining variables and added time slices, trained decision trees to find a better combination of variables and optimized credit leverage
+* Feature engineering and scorecard iteration: analyzed customers’ history behavior and multi-platform loan data; generated a 500-feature list with time-based segmentation. Developed a LGBM scorecard based on the list; enhanced predictive accuracy with an AUC of 0.7 and KS of 0.24 on OOT data. Effectively optimized risk exposure, reducing bad debt proportion by 1.5%.
 
-*Delivery Analyst, Acxiom Information Service (Shanghai) Co., Ltd. (07/2021-12/2021)*
+* Anti-fraud optimization: identified and analyzed suspected fraud cases and scam patterns; mitigated risks associated with scam rings and click farming, enhancing organizational security and integrity.
+
+* Daily monitoring: conducted daily reviews and made decisions for all incoming applications in the pipeline product based on available internal SOP
+
+
+*Delivery Analyst, Acxiom Information Service (Shanghai) (07/2021-12/2021)*
 
 * Membership loyalty analysis: analyzed the reasons for the low repurchase rate of R3 young consumers by comparing
 the loss rate and retention rate of competing products; identified the long-term trend of weak brand stickiness (infidelity) of young consumers; collaborated with the operation department to plan the future operation strategy for such customer groups
