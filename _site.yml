@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Eduation/Research"
+      href: education.html
+    - text: "Work"
+      href: work.html
     - icon: fa-envelope fa-lg
       href: mailto:<adaluchen1117@gmail.com>
     - icon: fa-github fa-lg

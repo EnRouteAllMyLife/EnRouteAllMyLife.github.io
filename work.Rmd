@@ -1,0 +1,31 @@
+---
+title: "Work"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+---
+
+# Work Experience
+
+## Shanghai Chengce Fin-tech
+
+From February 2022 to September 2023, I have worked as a credit risk analyst. I feel incredibly fortunate for the growth and experiences I've gained in this supportive company. 
+
+I'm in charge of the credit risk analysis over [PinjamDuit](https://www.stanfordtek.com), one of Indonesia’s leading digital lending platforms that is licensed, registered, and supervised by the Financial Services Authority (OJK). The frequently used programming language is Python, SQL and R. Overall, my prime duty can be divided into three parts:
+
+* Feature engineering and scorecard iteration: analyzed customers’ history behavior and multi-platform loan data; generated a 500-feature list with time-based segmentation. Developed a LGBM scorecard based on the list; enhanced predictive accuracy with an AUC of 0.7 and KS of 0.24 on OOT data. Effectively optimized risk exposure, reducing bad debt proportion by 1.5%.
+
+* Anti-fraud optimization: identified and analyzed suspected fraud cases and scam patterns; mitigated risks associated with scam rings and click farming, enhancing organizational security and integrity.
+
+* Daily monitoring: conducted daily reviews and made decisions for all incoming applications in the pipeline product based on available internal SOP
+
+
+## Acxiom Information Service
+
+I have interned as a Delivery Analyst from July 2021 to December 2021. The team, based in Shanghai, provided CRM for L'oreal Paris. The most remarkable contributions are listed as:
+
+* Membership loyalty analysis: analyzed the reasons for the low repurchase rate of R3 young consumers by comparing the loss rate and retention rate of competing products; identified the long-term trend of weak brand stickiness (infidelity) of young consumers; collaborated with the operation team with customized strategies.
+
+* D11 CRM Planning: participated in the CRM planning for Double 11 Shopping Carnival, trained a clustering model based on users’ past purchasing behavior, mind and consumption habits and divided users into nine groups; contributed my parts to reaching 2.45 billion GMV, an increase of 21% over the same period of the previous year
