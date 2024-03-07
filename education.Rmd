@@ -14,9 +14,17 @@ date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 * 2018 ~ 2022, Bachelor of Science in Statistics, School of Statistic, East China Normal University
 
 
+<div style="text-align: center;">
+  <img src="Graphs/logo.png" style="width: 70%;">
+</div>
+
+ECNU is represented by red, while Columbia boasts blue as its symbol color – such a classical CP! Also, both institutions have lions as their mascots. I prompted ChatGPT to create a few logo fusions. Let's take a look!
+
 # Research Experience
 
-Since August 2022, I have been engaged in a remote role as a Statistical Analyst, contributing my expertise to two distinct research teams. I actively participate in the entire lifecycle of research projects, which includes designing study methodologies, selecting appropriate statistical techniques, and interpreting complex data sets. 
+Since August 2022, I have been engaged in a remote role as a Research Assistant, contributing my expertise to two distinct research teams. I actively participate in the entire cycle of research projects, which includes designing study methodologies, selecting appropriate statistical techniques, and interpreting complex data sets. 
+
+Frequently used tools are R, Python and Excel. Most used packages are MASS, glmnet, tidyverse, ggplot2, plotly, shiny for R and sklearn, numpy, pandas for Python.
 
 ## Parkinson Disease
 
@@ -28,7 +36,7 @@ Another topic is about the correlation between cerebellar glucose metabolism and
 
 ## Bone and Joint Surgery
 
-The research team, spearheaded by Professor [Xin Qi](https://m.haodf.com/doctor/78526.html) from the Department of Bone and Joint Surgery at the First Hospital of Jilin University, has made significant advancements in their field. Detailed demonstration of their results can be found on this [websit](http://api.cup-placement.com/) (a little shabby, still working on that). From September 2023, I have shoulder the majority of the analytical and coding responsibilities, including data management, processing, modeling, visualization and website construction.
+The research team, spearheaded by Professor [Xin Qi](https://m.haodf.com/doctor/78526.html) from the Department of Bone and Joint Surgery at the First Hospital of Jilin University, has made significant advancements in their field. Detailed demonstration of their results can be found on this [websit](https://enrouteallmylife.shinyapps.io/IndividualizedCupReplacement/) (a little shabby, still working on that). From September 2023, I have shoulder the majority of the analytical and coding responsibilities, including data management, processing, modeling, visualization and website construction.
 
 So far by `r format(Sys.Date(), '%Y-%m-%d')`, the team has achieved notable progress in the following areas:
 
@@ -56,8 +64,8 @@ This is a retrospective cohort study focusing on the distribution of coronal pla
 
 # Publication
 
-* Gao Y, Qi Y, Huang P, et al. Distribution of coronal plane alignment of the knee classification in Chinese osteoarthritic and healthy population: A retrospective cross-sectional observational study. (Accepted by International Journal of Surgery on Jan 2024, impact factor of 15.3)
+* Gao, Y. H., Qi, Y. M., Huang, P. H., Zhao, X. Y., & Qi, X. (2024). Distribution of coronal plane alignment of the knee classification in Chinese osteoarthritic and healthy population: a retrospective cross-sectional observational study. *International journal of surgery (London, England)*, 10.1097/JS9.0000000000001178. Advance online publication. https://doi.org/10.1097/JS9.0000000000001178
 
-* Ren W, Qi Y, Liu Y, et al. Evaluation of risk factors for impulse control disorder in Parkinson's disease in northern China[J]. Frontiers in Aging Neuroscience, 15: 1257618.
+* Ren, W., Qi, Y., Liu, Y., Yan, Y., Zheng, X., Jin, S., & Chang, Y. (2023). Evaluation of risk factors for impulse control disorder in Parkinson's disease in northern China. *Frontiers in aging neuroscience*, 15, 1257618. https://doi.org/10.3389/fnagi.2023.1257618
 
-*	Luo R, Qi Y, He J, et al. Analysis of Influencing Factors of Apathy in Patients with Parkinson’s Disease[J]. Brain Sciences, 2022, 12(10): 1343.
+*	Luo, R., Qi, Y., He, J., Zheng, X., Ren, W., & Chang, Y. (2022). Analysis of Influencing Factors of Apathy in Patients with Parkinson's Disease. *Brain sciences*, 12(10), 1343. https://doi.org/10.3390/brainsci12101343
