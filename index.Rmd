@@ -18,7 +18,7 @@ Currently obsessed with Notion. I'm totally in the "Give a man a hammer & everyt
 Craving cuddles with furry friends. A cat lover and dogs are absolutely adorable, it just sometimes I might shed away from their boundless energy.
 
 <div style="text-align: center;">
-  <img src="Graphs/the_world_fascinates_me.jpeg" style="width: 70%;">
+  <img src="graph/the_world_fascinates_me.jpeg" style="width: 70%;">
 </div>
 
 

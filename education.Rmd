@@ -15,7 +15,7 @@ date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 
 
 <div style="text-align: center;">
-  <img src="Graphs/logo.png" style="width: 70%;">
+  <img src="graph/logo.png" style="width: 70%;">
 </div>
 
 ECNU is represented by red, while Columbia boasts blue as its symbol color – such a classical CP! Also, both institutions have lions as their mascots. I prompted ChatGPT to create a few logo fusions. Let's take a look!
