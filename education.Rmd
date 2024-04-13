@@ -24,11 +24,11 @@ ECNU is represented by red, while Columbia boasts blue as its symbol color – s
 
 Since August 2022, I have been engaged in a remote role as a Research Assistant, contributing my expertise to two distinct research teams. I actively participate in the entire cycle of research projects, which includes designing study methodologies, selecting appropriate statistical techniques, and interpreting complex data sets. 
 
-Frequently used tools are R, Python and Excel. Most used packages are MASS, glmnet, tidyverse, ggplot2, plotly, shiny for R and sklearn, numpy, pandas for Python.
+Frequently used tools are R, Python and Excel. Most used packages are MASS, glmnet, caret, tidyverse, ggplot2, plotly, shiny for R and sklearn, numpy, pandas for Python.
 
-## Parkinson Disease
+## Parkinson's Disease
 
-The research team, led by Professor [Ying Chang](https://www.haodf.com/doctor/238861/xinxi-jieshao.html) from the Department of Neurology at China-Japan Union Hospital, has major interest in [Parkinson Disease (PD)](https://my.clevelandclinic.org/health/diseases/8525-parkinsons-disease-an-overview). From August 2022, I have taken responsibilities in  experimental design, data processing, statistical analysis and visualization. 
+The research team, led by Professor [Ying Chang](https://www.haodf.com/doctor/238861/xinxi-jieshao.html) from the Department of Neurology at China-Japan Union Hospital, has major interest in [Parkinson's Disease (PD)](https://my.clevelandclinic.org/health/diseases/8525-parkinsons-disease-an-overview). From August 2022, I have taken responsibilities in  experimental design, data processing, statistical analysis and visualization. 
 
 As of `r format(Sys.Date(), '%Y-%m-%d')`, the team has achieved significant advancements in researching the risk factors associated with non-motor symptoms in patients with PD. We have diligently worked to verify and quantify the relationships between various factors and the occurrence of specific symptoms, like apathy and [impulse control disorder](https://my.clevelandclinic.org/health/diseases/25175-impulse-control-disorders) . Ultimately, our efforts have culminated in the development of a predictive model to forecast the onset of these symptoms in PD patients.
 
